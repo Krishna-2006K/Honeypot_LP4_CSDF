@@ -6,3 +6,21 @@ Docker/
 __pycache__
 requirements1.txt.venv/
 __pycache__/
+
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
