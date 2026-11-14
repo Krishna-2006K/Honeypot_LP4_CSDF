@@ -1,0 +1,10 @@
+Command b'whoami'executed by 192.168.1.105
+Command b'ls'executed by 192.168.1.105
+Command b'cat jumpbox1.conf'executed by 192.168.1.105
+Command b'pwd'executed by 10.0.0.42
+Command b'uname -a'executed by 185.220.101.5
+Command b'whoami'executed by 185.220.101.5
+Command b'ls -la'executed by 10.0.0.42
+Command b'cat /etc/passwd'executed by 192.168.1.105
+Command b'id'executed by 172.16.0.15
+Command b'exit'executed by 192.168.1.105

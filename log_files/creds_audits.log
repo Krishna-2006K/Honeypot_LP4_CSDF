@@ -1,0 +1,12 @@
+192.168.1.105, admin, admin
+192.168.1.105, root, 123456
+10.0.0.42, root, toor
+192.168.1.105, admin, password
+172.16.0.15, user, user
+10.0.0.42, admin, admin
+192.168.1.105, ubuntu, ubuntu
+185.220.101.5, root, root
+185.220.101.5, admin, admin123
+192.168.1.105, test, test
+10.0.0.42, support, support
+172.16.0.15, admin, deeboodah
